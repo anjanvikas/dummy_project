@@ -19,7 +19,13 @@
     "react-scripts": "4.0.0",
     "react-spring": "^8.0.27",
     "typewriter-effect": "^2.13.1",
-    "web-vitals": "^0.2.4"
+    "web-vitals": "^0.2.4",
+    "devDependencies": {
+   "postcss": "^8.0.0"
+  },
+ "peerDependencies": {
+   "postcss": "^8.0.0"
+ }
   },
   "scripts": {
     "start": "react-scripts start",
