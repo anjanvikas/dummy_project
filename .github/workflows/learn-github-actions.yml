@@ -1,0 +1,24 @@
+#for name of the workflow
+name: learn-github-actions
+# on -> trigger based on code psuh to the repo.([push])
+on: [push]
+#we define all jobs under this
+jobs:
+
+#name of the job
+  check-bats-version:
+#run the job on ubuntu-latest
+    runs-on: ubuntu-latest
+#this job contains following steps
+    steps:
+#uses actions/checkout action : puts the repository on the vm(runner)
+#uses actions/setup-node action : installs node on vm(runner)
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+#installs bats using npm
+# and checks bats version
+      - run: npm install -g bats
+      - run: bats -v
+
