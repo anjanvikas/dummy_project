@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/dummy_project/static/css/main.3aed73c3.chunk.css",
+    "main.js": "/dummy_project/static/js/main.061641ea.chunk.js",
+    "main.js.map": "/dummy_project/static/js/main.061641ea.chunk.js.map",
+    "runtime-main.js": "/dummy_project/static/js/runtime-main.5e5b9998.js",
+    "runtime-main.js.map": "/dummy_project/static/js/runtime-main.5e5b9998.js.map",
+    "static/css/2.3dd94dd9.chunk.css": "/dummy_project/static/css/2.3dd94dd9.chunk.css",
+    "static/js/2.4c9706a8.chunk.js": "/dummy_project/static/js/2.4c9706a8.chunk.js",
+    "static/js/2.4c9706a8.chunk.js.map": "/dummy_project/static/js/2.4c9706a8.chunk.js.map",
+    "static/js/3.5681a389.chunk.js": "/dummy_project/static/js/3.5681a389.chunk.js",
+    "static/js/3.5681a389.chunk.js.map": "/dummy_project/static/js/3.5681a389.chunk.js.map",
+    "index.html": "/dummy_project/index.html",
+    "static/css/2.3dd94dd9.chunk.css.map": "/dummy_project/static/css/2.3dd94dd9.chunk.css.map",
+    "static/css/main.3aed73c3.chunk.css.map": "/dummy_project/static/css/main.3aed73c3.chunk.css.map",
+    "static/js/2.4c9706a8.chunk.js.LICENSE.txt": "/dummy_project/static/js/2.4c9706a8.chunk.js.LICENSE.txt",
+    "static/media/15puzzle.5f6e8f37.PNG": "/dummy_project/static/media/15puzzle.5f6e8f37.PNG",
+    "static/media/binaryTree.6d8ce938.png": "/dummy_project/static/media/binaryTree.6d8ce938.png",
+    "static/media/convexHull.2720e7cd.png": "/dummy_project/static/media/convexHull.2720e7cd.png",
+    "static/media/graph.6e6849d5.png": "/dummy_project/static/media/graph.6e6849d5.png",
+    "static/media/primes.72a2f33f.jpg": "/dummy_project/static/media/primes.72a2f33f.jpg",
+    "static/media/queen.a967028b.png": "/dummy_project/static/media/queen.a967028b.png",
+    "static/media/queen.b2332ba3.PNG": "/dummy_project/static/media/queen.b2332ba3.PNG",
+    "static/media/index.css": "/dummy_project/static/media/roboto-vietnamese-400-normal.52cebac0.woff2",
+    "static/media/sort.117e08fc.png": "/dummy_project/static/media/sort.117e08fc.png",
+    "static/media/sudoku.58363375.png": "/dummy_project/static/media/sudoku.58363375.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e5b9998.js",
+    "static/css/2.3dd94dd9.chunk.css",
+    "static/js/2.4c9706a8.chunk.js",
+    "static/css/main.3aed73c3.chunk.css",
+    "static/js/main.061641ea.chunk.js"
+  ]
+}
