@@ -1,7 +1,7 @@
 {
   "name": "algo-visualizer",
   "version": "0.1.0",
-  "homepage": "https://anjanvikas.github.io/dummy_project",
+  "homepage": "http://anjanvikas.github.io/dummy_project",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
@@ -10,22 +10,21 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "bootstrap": "^4.5.3",
+    "firebase": "^9.6.7",
     "fontsource-roboto": "^3.0.3",
+    "lodash": "^4.17.21",
+    "query-string": "^7.1.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-flip-move": "^3.0.4",
     "react-github-btn": "^1.2.0",
+    "react-mt-svg-lines": "^0.9.1",
+    "react-router": "^6.2.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.0",
     "react-spring": "^8.0.27",
     "typewriter-effect": "^2.13.1",
-    "web-vitals": "^0.2.4",
-    "devDependencies": {
-   "postcss": "^8.0.0"
-  },
- "peerDependencies": {
-   "postcss": "^8.0.0"
- }
+    "web-vitals": "^0.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
